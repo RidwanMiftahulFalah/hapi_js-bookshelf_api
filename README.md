@@ -1,0 +1,1 @@
+# hapi_js-bookshelf_api
